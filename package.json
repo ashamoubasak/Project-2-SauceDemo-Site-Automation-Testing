@@ -1,0 +1,22 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed",
+    "authenticate": "npx playwright test tests/specs/authenticate.spec.js --headed",
+    "checkoutproduct": "npx playwright test tests/specs/randomProdCheckout.spec.js --headed",
+    "purchasebyfilter": "npx playwright test tests/specs/prodPurchaseByFilter.spec.js --headed",
+    "getReport": " npx playwright test && allure serve allure-results"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.4.2"
+  }
+}

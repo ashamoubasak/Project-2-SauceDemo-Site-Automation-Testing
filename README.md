@@ -24,6 +24,33 @@ To get report after completing run, I used allure reporter. This helps to genera
 
 Clone the Project 
 
+https://github.com/ashamoubasak/Project-2-SauceDemo-Site-Automation-Testing
+
+Then go to the project directory and select the branch
+
+cd Project-2-SauceDemo-Site-Automation-Testing
+
+Install dependecies
+
+npm install
+
+Run test for features 
+
+npm run authenticate
+
+npm run checkoutproduct
+
+npm run purchasebyfilter
+
+### Get Report 
+
+npm run getReport 
+
+Run All the featuer
+
+npm run test
+
+
 
 
 

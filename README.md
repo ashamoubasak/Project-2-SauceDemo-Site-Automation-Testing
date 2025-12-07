@@ -27,7 +27,7 @@ To get report after completing run, I used allure reporter. This helps to genera
 
 Clone the Project 
 
-<pre>```git clone https://github.com/ashamoubasak/Project-2-SauceDemo-Site-Automation-Testing```</pre>
+<pre>git clone https://github.com/ashamoubasak/Project-2-SauceDemo-Site-Automation-Testing</pre>
 
 Then go to the project directory and select the branch
 
@@ -52,6 +52,7 @@ npm run getReport
 Run All the featuer
 
 npm run test
+
 
 
 

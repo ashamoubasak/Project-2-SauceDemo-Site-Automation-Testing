@@ -8,7 +8,7 @@ Packages: playwright, node.js, allure-reporter
 
 Required Node latest version and Java 8 version or higher version to run allure-commandline
 
-##Authors
+## Authors
 
 
 @ashamoubasak
@@ -50,6 +50,7 @@ npm run getReport
 Run All the featuer
 
 npm run test
+
 
 
 

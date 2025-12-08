@@ -41,11 +41,17 @@ cd Project-2-SauceDemo-Site-Automation-Testing
 
 Install dependecies
 
+```bash
 npm install
+```
 
 Run test for features 
 
+```bash
+
 npm run authenticate
+```
+
 
 npm run checkoutproduct
 
@@ -58,6 +64,7 @@ npm run getReport
 Run All the featuer
 
 npm run test
+
 
 
 

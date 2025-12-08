@@ -29,7 +29,9 @@ Clone the Project
 
 <pre>
 
- git clone https://github.com/ashamoubasak/Project-2-SauceDemo-Site-Automation-Testing</pre>
+```bash
+git clone https://github.com/ashamoubasak/Project-2-SauceDemo-Site-Automation-Testing
+```</pre>
 
 Then go to the project directory and select the branch
 
@@ -54,6 +56,7 @@ npm run getReport
 Run All the featuer
 
 npm run test
+
 
 
 

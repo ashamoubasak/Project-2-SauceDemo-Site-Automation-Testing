@@ -34,7 +34,10 @@ git clone https://github.com/ashamoubasak/Project-2-SauceDemo-Site-Automation-Te
 
 Then go to the project directory and select the branch
 
+
+```bash
 cd Project-2-SauceDemo-Site-Automation-Testing
+```
 
 Install dependecies
 
@@ -55,6 +58,7 @@ npm run getReport
 Run All the featuer
 
 npm run test
+
 
 
 

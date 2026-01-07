@@ -49,15 +49,8 @@ npm install
 Run test for features 
 
 ```bash
-
 npm run authenticate
-```
-
-```bash
 npm run checkoutproduct
-```
-
-```bash
 npm run purchasebyfilter
 ```
 
@@ -67,13 +60,11 @@ npm run purchasebyfilter
 npm run getReport 
 ```
 
-```bash
-Run All the featuer
-```
-
+### Run All the features
 ```bash
 npm run test
 ```
+
 
 
 

@@ -2,7 +2,8 @@
  
 SauceDemo site Ui automation testing using Playwright
 
-Project URL: ```bash https://www.saucedemo.com/ ```
+Project URL: bash```
+https://www.saucedemo.com/ ```
 
 Packages: playwright, node.js, allure-reporter
 
@@ -64,6 +65,7 @@ npm run getReport
 Run All the featuer
 
 npm run test
+
 
 
 

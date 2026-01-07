@@ -53,18 +53,27 @@ Run test for features
 npm run authenticate
 ```
 
-
+```bash
 npm run checkoutproduct
+```
 
+```bash
 npm run purchasebyfilter
+```
 
-### Get Report 
+## Get Report 
 
+```bash
 npm run getReport 
+```
 
+```bash
 Run All the featuer
+```
 
+```bash
 npm run test
+```
 
 
 
